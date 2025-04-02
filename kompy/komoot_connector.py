@@ -331,8 +331,9 @@ class KomootConnector:
         json = {
             'sport': activity_type,
             'name': tour_name,
-            'status': status
         }
+        if status is not None:
+            json['status'] = status
         resp = requests.patch(
             url=KomootUrl.TOUR_URL.format(tour_identifier=tour_id),
             auth=(self.authentication.get_email_address(), self.authentication.get_password()),
