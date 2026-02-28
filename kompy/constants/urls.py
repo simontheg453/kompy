@@ -11,3 +11,6 @@ class KomootUrl:
     PROFILE_URL: Final[str] = 'https://api.komoot.de/v007/users/{user_identifier}/'
 
     testing = "lol"
+
+    more = "testing"
+    
