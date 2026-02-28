@@ -7,7 +7,7 @@
 Kompy is a wrapper for the [Komoot APIs](https://static.komoot.de/doc/external-api/v007/index.html) to access and upload user data from and to Komoot.
 Originally, Kompy has been developed by [Tsadoq](https://github.com/Tsadoq) and can be found [here](https://tsadoq.github.io/kompy/).
 
-Please note that this can only be used to access data, which is made publicly available by the users themselves per the Komoot settings.
+**Please note** that this can only be used to access data, which is made publicly available by the users themselves per the Komoot settings.
 Although one might argue that this is an extensive usage of user data and the average user not beeing aware of the scale of public accessability,
 this is according to current data privacy regulations in the EU and Germany specifically.
 
