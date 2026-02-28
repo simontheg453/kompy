@@ -9,3 +9,5 @@ class KomootUrl:
     LIST_RELATION_URL: Final[str] = 'https://api.komoot.de/v007/users/{user_identifier}/relations/{relation_identifier}/'
     LIST_FOLLOWER_URL: Final[str] = 'https://komoot.com/user/{user_identifier}/followers/'
     PROFILE_URL: Final[str] = 'https://api.komoot.de/v007/users/{user_identifier}/'
+
+    testing = "lol"
