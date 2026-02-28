@@ -4,6 +4,9 @@
 
 ## Overview
 
+Kompy is a wrapper for the [Komoot APIs](https://static.komoot.de/doc/external-api/v007/index.html) to access and upload user data from and to Komoot.
+Originally, Kompy has been developed by [Tsadoq](https://github.com/Tsadoq) and can be found [here](https://tsadoq.github.io/kompy/)
+
 Kompy is a wrapper for [Komoot APIs](https://static.komoot.de/doc/external-api/v007/index.html) that allows you to
 download and upload your activities from Komoot.
 
